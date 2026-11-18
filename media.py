@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Ana Beatriz da Silva Gonçalves
 
 def media(n1, n2):
     """Devolve a media aritmetica das duas notas.
